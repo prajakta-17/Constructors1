@@ -9,6 +9,7 @@ namespace ConsoleApp2
     class CalculateSquare
     {
         int number;
+        //Server comment
         public CalculateSquare()
         {
             number = 10;
