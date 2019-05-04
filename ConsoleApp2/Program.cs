@@ -15,6 +15,7 @@ namespace ConsoleApp2
            square(number);
 
         }
+        // This function calculates square of a number
         public void square(int number)
         {
             number *= number;
